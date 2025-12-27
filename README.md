@@ -27,9 +27,6 @@ Projeto de testes funcionais aplicado a um sistema de e-commerce, contemplando:
 - Cenários adicionais (funcionais, acessibilidade e segurança)
 - Sugestões de melhoria
 
-📄 Documento principal:  
-`Plano de Testes – Swag Labs.pdf`
-
 🎥 Alguns projetos poderão conter vídeos complementares de execução e análise.
 
 ---
