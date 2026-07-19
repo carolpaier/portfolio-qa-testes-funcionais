@@ -1,6 +1,6 @@
 ## Cenários adicionais de teste
 
-Os testes descritos neste documento representam os principais fluxos funcionais do sistema. Em um ambiente real de projeto, outros cenários relevantes também poderiam ser considerados para ampliar a cobertura de qualidade do produto, conforme exemplos abaixo.
+Além dos testes descritos no plano de testes, em um ambiente real de projeto, outros cenários relevantes também devem ser considerados para ampliar a cobertura de qualidade do produto, conforme exemplos abaixo:
 
 ### Cenários Funcionais Adicionais
 * Login com usuário bloqueado
